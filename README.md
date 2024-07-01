@@ -5,3 +5,4 @@
 <img src="https://raw.githubusercontent.com/TheMrWest/AreaProject/main/DiscoPix/discopix_logo.png" width="200px">
 </center>
 
+(Projeto em Desenvolvimento)
